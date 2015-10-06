@@ -1,0 +1,23 @@
+0	0
+1	0.087866042
+2	0.223005225
+3	0.258992749
+4	0.208637267
+5	0.127489076
+6	0.061148649
+7	0.023406737
+8	0.007216643
+9	0.001802145
+10	0.00036581
+
+
+
+
+Columns:
+
+1 - days of infectiousness (x)
+2 - weibull cumulative density F(x)-F(x-1) for asymptomatic cases
+
+Note: Ignore the first column
+
+10/18/10  Diana Prieto

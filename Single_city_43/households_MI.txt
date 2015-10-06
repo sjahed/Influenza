@@ -1,0 +1,19 @@
+0	0	0.000
+1	0	0.289
+1	1	0.332
+2	0	0.641
+1	2	0.682
+2	1	0.798
+1	3	0.805
+2	2	0.937
+1	4	0.943
+2	3	1.000
+
+
+
+Types of households with cumulative pmf for each type.
+
+E.g., 2  0  0.641 means that households with 2 adults and 0 kids occupy 0.641 - 0.332 = 0.309 (31%).
+
+Note: ignore the first row
+

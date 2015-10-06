@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Single_city_43">
+</Property><Property Name="Solution File" Value="G:\Codes\Diana_093010\Single_city_43\Single_city_43.sln">
+</Property><Property Name="User Options File" Value="G:\Codes\Diana_093010\Single_city_43\Single_city_43.suo">
+</Property><Property Name="Date" Value="Friday, November 15, 2013">
+</Property><Property Name="Time" Value="17:07 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Single_city_43.sln" Description="Error creating backup file: G:\Codes\Diana_093010\Single_city_43\Single_city_43.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="Single_city_43.suo" Description="Error creating backup file: G:\Codes\Diana_093010\Single_city_43\Single_city_43.suo.old">
+</Event><Event ErrorLevel="0" Project="Single_city_43" Source="Single_city_43\Single_city_43.vcproj" Description="Converting project file 'G:\Codes\Diana_093010\Single_city_43\Single_city_43\Single_city_43.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Single_city_43" Source="Single_city_43\Single_city_43.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Single_city_43" Source="Single_city_43\Single_city_43.vcproj" Description="Done converting to new project file 'G:\Codes\Diana_093010\Single_city_43\Single_city_43\Single_city_43.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Single_city_43" Source="Single_city_43\Single_city_43.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="Single_city_43.sln" Description="Error saving converted file: G:\Codes\Diana_093010\Single_city_43\Single_city_43.sln">
+</Event><Event ErrorLevel="3" Project="" Source="Single_city_43.sln" Description="Not Converted">
+</Event></UpgradeLog>

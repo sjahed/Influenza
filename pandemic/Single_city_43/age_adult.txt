@@ -1,0 +1,15 @@
+0		0.00
+29		0.16
+64		0.83
+99		1.00
+
+Columns:
+
+1 - age (in-between)
+2 - cumulative probability mass function
+
+Row 0, 0.0 is row #0
+Column 0, 29, 64, 99 is column #1
+
+
+Checked - 05/22/07  by Andres

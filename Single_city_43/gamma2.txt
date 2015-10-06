@@ -1,0 +1,23 @@
+0	0
+1	0.04687299
+2	0.248505983
+3	0.30307952
+4	0.211008627
+5	0.11087006
+6	0.049241932
+7	0.019562658
+8	0.007179076
+9	0.002482875
+10	0.000820094
+
+
+
+
+Columns:
+
+1 - days of infectiousness (x)
+2 - gamma cumulative density F(x)-F(x-1) for asymptomatic cases
+
+Note: Ignore the first column
+
+10/18/10  Diana Prieto

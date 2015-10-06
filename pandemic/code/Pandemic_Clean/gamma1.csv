@@ -1,0 +1,11 @@
+gamma1,days_infectiousness,gamma_cumulative_density_symp
+gamma1,0,0.007339835
+gamma1,1,0.332600216
+gamma1,2,0.501192066
+gamma1,3,0.142183447
+gamma1,4,0.015675154
+gamma1,5,0.000967407
+gamma1,6,4.055E-05
+gamma1,7,1.29105E-06
+gamma1,8,3.34836E-08
+gamma1,9,7.41011E-10

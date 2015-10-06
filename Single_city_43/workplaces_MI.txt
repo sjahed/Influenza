@@ -1,0 +1,32 @@
+0	0	0	0	0	0	0
+0	7721	0.41215	0	0	0.8	3
+1	76	0.07319	0	0	0	3
+2	139	0.13328	0	0	0	3
+3	4	0.00623	0	0	0	2
+4	6	0.08069	0	0	0	2
+5	5	0.04127	0	0	0	3
+6	5	0.05839	0	0	0	3
+7	1	0.03592	0	0	0	2
+8	53	0.05885	0.00321	0.00262	0	2
+9	93	0.06078	0.30039	0.32330	0.1	2
+10	1	0	0.33055	0.27487	0	0
+11	39	0.03474	0.15404	0.18194	0	2
+12	7	0.00450	0.16624	0.19764	0	2
+13	1	0	0.04557	0.01963	0.1	2
+
+
+Columns: 
+1 - type of business	
+2 - # of places a particular type (scaled numbers)	
+3 - % of population of workplaces	
+4 - % weekday errands	
+5 - % weekend errands
+6 - % voluntary quarantine errands
+7 - Number of contacts in the location per day
+
+Types of businesses:
+0 = home, 1 = factory, 2 = office, 3 = pre-school, 4 = elementary school, 5 = middle school, 6 = high school, 
+7 = university, 8 = afterschool center,  9 = grocery store, 10 = others, 11 = restaurant, 12 = entertainment, 13 = church
+
+Note:  Columns 3,4,5,6 should be equal to 1
+

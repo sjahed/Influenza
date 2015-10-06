@@ -1,0 +1,11 @@
+lognorm1,days_infectiousness,weibull_cumulative_density_symp
+lognorm1,0,0.002533572
+lognorm1,1,0.348252834
+lognorm1,2,0.498210218
+lognorm1,3,0.130145145
+lognorm1,4,0.018421298
+lognorm1,5,0.002158374
+lognorm1,6,0.000245489
+lognorm1,7,2.88922E-05
+lognorm1,8,3.61113E-06
+lognorm1,9,4.83901E-07

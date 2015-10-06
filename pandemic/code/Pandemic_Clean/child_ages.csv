@@ -1,0 +1,6 @@
+child_ages,age,cumulative_prob,workplace_type_id
+child_ages,5,0.24,3
+child_ages,9,0.47,4
+child_ages,14,0.72,5
+child_ages,17,0.85,6
+child_ages,22,1,7

@@ -1,0 +1,12 @@
+0		0.00		0
+5		0.24		3
+9		0.47		4
+14		0.72		5
+17		0.85		6
+22		1.00		7
+
+Column 1 = Age
+Column 2 = Cumulative probability.
+Column 3 = Type of workplaces (school)
+
+Checked - 05/22/07 by Andres

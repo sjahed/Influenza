@@ -1,0 +1,178 @@
+﻿Build started 5/12/2015 12:02:47 PM.
+     1>Project "C:\Users\Yuwen\Dropbox\PI\Single_city_43\Single_city_43\Single_city_43.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main43.c
+         main43.c
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(140): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(186): warning C4101: 'w' : unreferenced local variable
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(190): warning C4101: 'total_schedule' : unreferenced local variable
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(311): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(313): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(314): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(317): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(318): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(319): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(320): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(322): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(323): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(324): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(325): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(326): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(327): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(328): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(329): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(330): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(340): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(341): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(343): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(344): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(345): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(346): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(347): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(348): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(349): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(350): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(363): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(371): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(381): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(391): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(400): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(409): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(418): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(427): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(436): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(445): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(454): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(475): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(494): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(495): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(550): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(551): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(570): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(573): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(576): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(622): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(623): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(640): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(669): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(682): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(698): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(757): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(759): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(793): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(797): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(811): warning C4101: 'index_hour' : unreferenced local variable
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(919): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1001): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1043): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1122): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1128): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1134): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1140): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1286): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1293): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1302): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1309): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1318): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1325): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1333): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1334): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1347): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1354): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1363): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1370): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1379): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1386): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1394): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1395): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1408): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1415): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1424): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1431): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1440): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1447): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1456): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1463): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1471): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1472): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1485): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1492): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1501): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1508): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1517): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1524): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1533): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1540): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1548): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1549): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1568): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1573): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1582): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1587): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1595): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1597): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1607): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1609): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1865): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1959): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1987): warning C4013: 'srandom' undefined; assuming extern returning int
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(2002): warning C4133: 'function' : incompatible types - from 'timeb *' to '__timeb64 *'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(2002): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\sys\timeb.h(131) : see declaration of '_ftime64'
+     1>c:\users\yuwen\dropbox\pi\single_city_43\single_city_43\main43.c(1999): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yuwen\Dropbox\PI\Single_city_43\Debug\Single_city_43.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yuwen\Dropbox\PI\Single_city_43\Debug\Single_city_43.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yuwen\Dropbox\PI\Single_city_43\Debug\Single_city_43.lib" /MACHINE:X86 /SAFESEH Debug\main43.obj
+         Single_city_43.vcxproj -> C:\Users\Yuwen\Dropbox\PI\Single_city_43\Debug\Single_city_43.exe
+     1>Done Building Project "C:\Users\Yuwen\Dropbox\PI\Single_city_43\Single_city_43\Single_city_43.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61

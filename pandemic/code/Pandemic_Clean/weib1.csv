@@ -1,0 +1,11 @@
+weib1,days_infectiousness,weibull_cumulative_density_symp
+weib1,0,0.05927385
+weib1,1,0.314171688
+weib1,2,0.411588802
+weib1,3,0.187010054
+weib1,4,0.026934715
+weib1,5,0.001013098
+weib1,6,7.78449E-06
+weib1,7,9.29441E-09
+weib1,8,1.29796E-12
+weib1,9,0

@@ -1,0 +1,4 @@
+adult_ages,age,cumulative_pmf
+adult_ages,29,0.16
+adult_ages,64,0.83
+adult_ages,99,1.00

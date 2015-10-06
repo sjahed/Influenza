@@ -1,0 +1,1 @@
+Day Hour Contactor_id  Cont_rate  Contactor_inf_day  Contacted_id  Contacted_inf_day  Contacted_gen  Contactor_id  Contactor_rn Contactor_symptomatic Contactor_profile

@@ -1,0 +1,22 @@
+0	0
+1	0.002533572
+2	0.348252834
+3	0.498210218
+4	0.130145145
+5	0.018421298
+6	0.002158374
+7	0.000245489
+8	2.88922E-05
+9	3.61113E-06
+10	4.83901E-07
+
+
+
+Columns:
+
+1 - days of infectiousness (x)
+2 - lognorm cumulative density F(x)-F(x-1) for symptomatic cases
+
+Note: Ignore the first column
+
+10/18/10  Diana Prieto

@@ -1,0 +1,2 @@
+ave_max_RN_p	ave_max_RN_s	ave_max_symRN_p	ave_max_asymRN_p	ave_max_symRN_s	ave_max_asymRN_s
+1.713254	1.691614	2.159689	0.940076	1.890415	1.765087	

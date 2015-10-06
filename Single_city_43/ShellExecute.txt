@@ -1,0 +1,16 @@
+/*not used yet, since it's for seperate process*/
+int repli(void) 
+{
+	HINSTANCE hNewExe = ShellExecuteA(NULL, "open", "C:\\Users\\Yuwen\\Dropbox\\PI\\Single_city_43\\Debug\\Single_city_43.exe", NULL, NULL, SW_SHOW);
+	if ((DWORD)hNewExe <= 32)
+	{
+		printf("return value:%d\n", (DWORD)hNewExe);
+	}
+	else
+	{
+		printf("successed!\n");
+	}
+	printf("GetLastError: %d\n", GetLastError());
+	system("pause");
+	return 1;
+}

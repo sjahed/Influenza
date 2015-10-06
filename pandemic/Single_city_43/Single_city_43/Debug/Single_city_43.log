@@ -1,0 +1,164 @@
+﻿  main43.c
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(131): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(295): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(175): warning C4101: 'w' : unreferenced local variable
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(179): warning C4101: 'total_schedule' : unreferenced local variable
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(302): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(303): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(304): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(305): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(306): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(307): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(308): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(309): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(310): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(311): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(312): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(313): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(314): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(315): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(316): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(317): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(326): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(327): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(329): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(330): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(331): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(332): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(333): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(334): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(335): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(338): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(350): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(355): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(370): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(380): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(388): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(397): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(402): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(407): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(416): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(425): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(434): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(443): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(464): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(483): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(484): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(532): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(533): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(546): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(549): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(552): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(595): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(596): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(609): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(626): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(712): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(715): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(812): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(889): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(925): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1004): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1010): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1016): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1022): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1143): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1150): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1159): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1166): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1175): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1182): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1190): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1191): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1204): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1211): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1220): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1227): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1236): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1243): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1251): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1252): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1265): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1272): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1281): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1288): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1297): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1304): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1313): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1320): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1328): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1329): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1342): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1349): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1358): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1365): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1374): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1381): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1390): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1397): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1405): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1406): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1425): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1430): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1439): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1444): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1452): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1454): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1464): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1466): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1719): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+c:\users\barzan\desktop\pandemic\single_city_43\single_city_43\main43.c(1762): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+  Single_city_43.vcxproj -> C:\Users\Barzan\Desktop\pandemic\Single_city_43\Debug\Single_city1.exe

@@ -1,0 +1,18 @@
+
+TODO:
+  maintanance(): day of week as string
+  keep infected in an unordered_set so that we can avoid iterating every person in the sim
+
+To Verify:
+
+
+
+Changelog:
+
+1/31/2014:
+
+  Program will try harder to make max_contacts at a given location.  If there are (f.ex) three people at a location and max_contacts equals three, previously this would be truncated to 2 contacts (3 minus the infector).  Now this will make 3 contacts from the 2 other people present.  The only situation in which it will be truncated is if there is only 1 person present (no valid contacts are possible)
+
+  Weekend home hour changed to 21
+  sim_time system changed.  Instead of counting hours globally, we loop based on days
+  UPDATE_HOUR define removed 
