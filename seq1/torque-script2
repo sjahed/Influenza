@@ -1,0 +1,23 @@
+#!/bin/sh -login
+#PBS -l mem=10000mb
+#PBS -l nodes=n8:ppn=1
+#PBS -l walltime=24:00:00
+#PBS -N testing
+#PBS -j oe
+	
+## Automatically calculate the total number of processors
+NP=$(cat ${PBS_NODEFILE} | wc -l)
+
+#exports at runtime
+#module load openmpi/gnu/1.7.3
+
+#cd into the working directory 
+cd ~bth2418/Thesis1/sequential/seq1
+
+#copy the file listing the nodes we can use to our working directory
+cp ${PBS_NODEFILE} ./
+
+#display the command we are going to run, then run it.
+./seq1
+
+

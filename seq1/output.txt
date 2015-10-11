@@ -1,0 +1,161 @@
+Total number of business is 12800
+Total number of people is 96240
+
+Day 1  Hour 1
+
+There are 96240 household people in the hour 1 and day 1 
+There are 0 business people in the hour 1 and day 1 
+
+Day 1  Hour 2
+
+There are 96240 household people in the hour 2 and day 1 
+There are 0 business people in the hour 2 and day 1 
+
+Day 1  Hour 3
+
+There are 96240 household people in the hour 3 and day 1 
+There are 0 business people in the hour 3 and day 1 
+
+Day 1  Hour 4
+
+There are 96240 household people in the hour 4 and day 1 
+There are 0 business people in the hour 4 and day 1 
+
+Day 1  Hour 5
+
+There are 96240 household people in the hour 5 and day 1 
+There are 0 business people in the hour 5 and day 1 
+
+Day 1  Hour 6
+
+There are 96240 household people in the hour 6 and day 1 
+There are 0 business people in the hour 6 and day 1 
+
+Day 1  Hour 7
+
+There are 96240 household people in the hour 7 and day 1 
+There are 0 business people in the hour 7 and day 1 
+
+Day 1  Hour 8
+
+There are 0 household people in the hour 8 and day 1 
+There are 96240 business people in the hour 8 and day 1 
+
+Day 1  Hour 9
+
+There are 0 household people in the hour 9 and day 1 
+There are 96240 business people in the hour 9 and day 1 
+
+Day 1  Hour 10
+
+There are 0 household people in the hour 10 and day 1 
+There are 96240 business people in the hour 10 and day 1 
+
+Day 1  Hour 11
+
+There are 0 household people in the hour 11 and day 1 
+There are 96240 business people in the hour 11 and day 1 
+
+Day 1  Hour 12
+
+There are 0 household people in the hour 12 and day 1 
+There are 96240 business people in the hour 12 and day 1 
+
+Day 1  Hour 13
+
+There are 0 household people in the hour 13 and day 1 
+There are 96240 business people in the hour 13 and day 1 
+
+Day 1  Hour 14
+
+There are 0 household people in the hour 14 and day 1 
+There are 96240 business people in the hour 14 and day 1 
+
+Day 1  Hour 15
+
+There are 0 household people in the hour 15 and day 1 
+There are 96240 business people in the hour 15 and day 1 
+
+Day 1  Hour 16
+
+There are 0 household people in the hour 16 and day 1 
+There are 96240 business people in the hour 16 and day 1 
+
+Day 1  Hour 17
+
+There are 0 household people in the hour 17 and day 1 
+There are 96240 business people in the hour 17 and day 1 
+
+Day 1  Hour 18
+
+There are 0 household people in the hour 18 and day 1 
+There are 96240 business people in the hour 18 and day 1 
+
+Day 1  Hour 19
+
+There are 0 household people in the hour 19 and day 1 
+There are 96240 business people in the hour 19 and day 1 
+
+Day 1  Hour 20
+
+There are 96240 household people in the hour 20 and day 1 
+There are 0 business people in the hour 20 and day 1 
+
+Day 1  Hour 21
+
+There are 96240 household people in the hour 21 and day 1 
+There are 0 business people in the hour 21 and day 1 
+
+Day 1  Hour 22
+
+There are 96240 household people in the hour 22 and day 1 
+There are 0 business people in the hour 22 and day 1 
+
+Day 1  Hour 23
+
+There are 96240 household people in the hour 23 and day 1 
+There are 0 business people in the hour 23 and day 1 
+
+Day 1  Hour 24
+
+There are 96240 household people in the hour 24 and day 1 
+There are 0 business people in the hour 24 and day 1 
+
+Day 2  Hour 1
+
+There are 96240 household people in the hour 1 and day 2 
+There are 0 business people in the hour 1 and day 2 
+
+Day 2  Hour 2
+
+There are 96240 household people in the hour 2 and day 2 
+There are 0 business people in the hour 2 and day 2 
+
+Day 2  Hour 3
+
+There are 96240 household people in the hour 3 and day 2 
+There are 0 business people in the hour 3 and day 2 
+
+Day 2  Hour 4
+
+There are 96240 household people in the hour 4 and day 2 
+There are 0 business people in the hour 4 and day 2 
+
+Day 2  Hour 5
+
+There are 96240 household people in the hour 5 and day 2 
+There are 0 business people in the hour 5 and day 2 
+
+Day 2  Hour 6
+
+There are 96240 household people in the hour 6 and day 2 
+There are 0 business people in the hour 6 and day 2 
+
+Day 2  Hour 7
+
+There are 96240 household people in the hour 7 and day 2 
+There are 0 business people in the hour 7 and day 2 
+
+Day 2  Hour 8
+
+There are 0 household people in 

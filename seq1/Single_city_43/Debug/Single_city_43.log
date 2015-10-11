@@ -1,0 +1,185 @@
+﻿Build started 12/14/2013 4:45:50 PM.
+     1>Project "C:\Diana_093010\Single_city_43\Single_city_43\Single_city_43.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Single_city_43.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main43.c
+         main43.c
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(129): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(173): warning C4101: 'w' : unreferenced local variable
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(177): warning C4101: 'total_schedule' : unreferenced local variable
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(296): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(298): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(299): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(300): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(301): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(302): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(303): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(304): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(305): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(306): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(307): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(308): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(309): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(310): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(311): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(312): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(313): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(322): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(323): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(324): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(325): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(326): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(327): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(329): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(330): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(331): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(332): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(333): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(334): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(346): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(363): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(373): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(381): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(390): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(400): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(409): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(418): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(427): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(436): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(457): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(476): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(477): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(525): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(526): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(539): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(542): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(542): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(545): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(545): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(588): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(589): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(602): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(630): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(643): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(659): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(704): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(707): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(804): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(881): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(917): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(996): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1002): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1008): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1014): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1135): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1142): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1151): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1158): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1167): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1174): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1182): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1183): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1196): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1212): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1219): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1228): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1235): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1243): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1244): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1257): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1264): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1273): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1280): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1289): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1296): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1305): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1312): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1320): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1321): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1334): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1341): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1350): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1357): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1366): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1373): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1382): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1389): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1397): warning C4244: 'function' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1398): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1417): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1422): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1431): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1436): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1444): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1446): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1456): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1458): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1710): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\diana_093010\single_city_43\single_city_43\main43.c(1753): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Diana_093010\Single_city_43\Debug\Single_city_43.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Single_city_43.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Diana_093010\Single_city_43\Debug\Single_city_43.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Diana_093010\Single_city_43\Debug\Single_city_43.lib" /MACHINE:X86 Debug\Single_city_43.exe.embed.manifest.res
+         Debug\main43.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Single_city_43.exe.embed.manifest" /manifest Debug\Single_city_43.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Single_city_43.vcxproj -> C:\Diana_093010\Single_city_43\Debug\Single_city_43.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Single_city_43.unsuccessfulbuild".
+         Touching "Debug\Single_city_43.lastbuildstate".
+     1>Done Building Project "C:\Diana_093010\Single_city_43\Single_city_43\Single_city_43.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
